@@ -14,5 +14,14 @@
     "express": "^4.17.1",
     "linebot": "^1.6.1",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richion/789789.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Richion/789789/issues"
+  },
+  "homepage": "https://github.com/Richion/789789#readme"
 }
